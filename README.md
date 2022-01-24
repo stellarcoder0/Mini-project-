@@ -1,1 +1,2 @@
-# Mini-project-
+# Mini-project- 
+FAKE NEWS DETECTOR USING MACHINE LEARNING AND PYTHON 
